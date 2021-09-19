@@ -1,1 +1,1 @@
-This is the logout feature.
+This is the LOGOUT feature.
